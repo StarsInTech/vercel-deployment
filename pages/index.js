@@ -38,6 +38,7 @@ export default function Home() {
           </li>
           <li className="mt-2 tracking-[-.01em] font-bold">By Sean Starosta</li>
           <li className="mt-2 tracking-[-.01em] font-bold">Deployment Works</li>
+          <li className="mt-2 tracking-[-.01em] font-bold">Moved File</li>
         </ol>
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
