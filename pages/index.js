@@ -37,6 +37,7 @@ export default function Home() {
             Save and see your changes instantly.
           </li>
           <li className="mt-2 tracking-[-.01em] font-bold">By Sean Starosta</li>
+          <li className="mt-2 tracking-[-.01em] font-bold">Deployment Works</li>
         </ol>
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
